@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Madhur Rao</h1>
 <h3 align="center">An ML enthusiast and web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3573448/screenshots/14824348/coding_laptop_4x.png">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/3573448/screenshots/14824348/coding_laptop_4x.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raomadhur&label=Profile%20views&color=0e75b6&style=flat" alt="raomadhur" /> </p>
 
 - 🌱 I’m currently learning **javascript**
